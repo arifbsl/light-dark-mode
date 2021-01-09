@@ -6,6 +6,7 @@ const image2 = document.getElementById('image2');
 const image3 = document.getElementById('image3');
 const textBox = document.getElementById('text-box');
 
+
 // Image color change
 function imageMode(mode) {
   image1.src = `img/undraw_proud_coder_${mode}.svg`;
